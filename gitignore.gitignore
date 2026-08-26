@@ -1,0 +1,18 @@
+# Dataset (too large for git)
+data/
+
+# Trained models
+*.keras
+*.h5
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# OS
+.DS_Store
