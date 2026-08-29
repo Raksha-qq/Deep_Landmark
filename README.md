@@ -1,6 +1,11 @@
+
 # VisionMark AI
 
 ### An AI-Powered Deep Learning System for Real-World Landmark Recognition (Transfer Learning with VGG19)
+
+# DeepLandmark
+
+### A CNN-Powered Deep Learning System for Global Landmark Classification (Transfer Learning with VGG19)
 
 A convolutional neural network that identifies landmarks (e.g. bridges, monuments, natural sites) from photographs, built with transfer learning on top of **VGG19** pretrained on ImageNet.
 
@@ -36,7 +41,7 @@ Sample images from the dataset span a wide range of subjects — bridges, coastl
 
 ```bash
 git clone <your-repo-url>
-cd visionmark-ai
+cd deeplandmark
 pip install -r requirements.txt
 ```
 
